@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Cellular", "src\Cellular\Cellular.fsproj", "{E6BE347F-4354-47FB-A032-AD2541BA9CE4}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Cellular.Runner", "src\Cellular.Runner\Cellular.Runner.fsproj", "{ECE9F9BC-C235-402D-BFA5-676FF2CDAF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6BE347F-4354-47FB-A032-AD2541BA9CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6BE347F-4354-47FB-A032-AD2541BA9CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6BE347F-4354-47FB-A032-AD2541BA9CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6BE347F-4354-47FB-A032-AD2541BA9CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE9F9BC-C235-402D-BFA5-676FF2CDAF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE9F9BC-C235-402D-BFA5-676FF2CDAF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE9F9BC-C235-402D-BFA5-676FF2CDAF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE9F9BC-C235-402D-BFA5-676FF2CDAF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7B7EBB-7100-47EA-AB02-50DFC50A1812}
+	EndGlobalSection
+EndGlobal
